@@ -9,7 +9,7 @@ const config = {
   title: "Builders-Resources-Hub",
   tagline:
     "BuildersChain Community platform to find resources for everything & for everyone",
-  favicon: "img/favicon.ico",
+  favicon: "img/BuildersChain_Profile.jpeg",
 
   // Set the production url of your site here
   url: "https://github.com",
@@ -69,7 +69,7 @@ const config = {
         title: "My Site",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/BuildersChain_Profile.jpeg",
         },
         items: [
           {
