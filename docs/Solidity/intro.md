@@ -37,12 +37,12 @@ These are the state variables that never changes, these types of variables are u
 
 contract Constants{
 
-    address public constant MY_ADDRESS = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+    address public constant MY_ADDRESS = 0x0000000000000000000000000000000000000000; // random address
     uint public constant MY_UINT = 123;
 }
 
 contract Var{
-        address public MY_ADDRESS = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+        address public MY_ADDRESS = 0x0000000000000000000000000000000000000000; // random address
 
 }
 ```
