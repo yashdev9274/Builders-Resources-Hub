@@ -15,14 +15,14 @@ Ideal for React developers, Next.js offers a seamless transition from client-sid
 
 # Why we need Nextjs
 
-| Feature                                                                  | Description                                                                                                                                                                                      |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `Routing`                                                                | A file-system-based router with support for layouts, hierarchical routing, loading states, error handling, and other features, constructed on top of Server Components.                          |
-| [Rendering](/docs/app/building-your-application/rendering)               | Client-side and Server-side Rendering with Client and Server Components. Further optimized with Static and Dynamic Rendering on the server with Next.js. Streaming on Edge and Node.js runtimes. |
-| [Data Fetching](/docs/app/building-your-application/data-fetching)       | Simplified data fetching with async/await in Server Components, and an extended `fetch` API for request memoization, data caching and revalidation.                                              |
-| [Styling](/docs/app/building-your-application/styling)                   | Support for your preferred styling methods, including CSS Modules, Tailwind CSS, and CSS-in-JS                                                                                                   |
-| [Optimizations](/docs/app/building-your-application/optimizing)          | Image, Fonts, and Script Optimizations to improve your application's Core Web Vitals and User Experience.                                                                                        |
-| [TypeScript](/docs/app/building-your-application/configuring/typescript) | Improved support for TypeScript, with better type checking and more efficient compilation, as well as custom TypeScript Plugin and type checker.                                                 |
+| Feature              | Description                                                                                                                                                                                      |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `Routing`            | A file-system-based router with support for layouts, hierarchical routing, loading states, error handling, and other features, constructed on top of Server Components.                          |
+| `Rendering`          | Client-side and Server-side Rendering with Client and Server Components. Further optimized with Static and Dynamic Rendering on the server with Next.js. Streaming on Edge and Node.js runtimes. |
+| `Data Fetching`      | Simplified data fetching with async/await in Server Components, and an extended `fetch` API for request memoization, data caching and revalidation.                                              |
+| `Styling`            | Support for your preferred styling methods, including CSS Modules, Tailwind CSS, and CSS-in-JS                                                                                                   |
+| `Optimizations`      | Image, Fonts, and Script Optimizations to improve your application's Core Web Vitals and User Experience.                                                                                        |
+| `TypeScript Support` | Improved support for TypeScript, with better type checking and more efficient compilation, as well as custom TypeScript Plugin and type checker.                                                 |
 
 <!--
 
